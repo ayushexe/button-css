@@ -1,0 +1,117 @@
+.subcribe-button{
+    border-radius: 4px;
+    border-color: gray;
+    opacity: 0.5;
+    cursor: pointer;
+    
+}
+.button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button-button2{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 4px;
+    border-color: blueviolet;
+    opacity: 0.5px;
+    cursor: pointer;
+}
+.button-button2:hover{
+
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button-button3{
+    background-color:blue;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.button-button3:hover{
+    
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+.button-button4{
+    background-color: darkred;
+    color: white; 
+    border-radius: 4px;
+    border-color: red;
+    cursor: pointer;
+
+}
+
+.button-button4:hover{
+    
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+
+.button-button5{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 4px;
+
+    border-color: gray;
+    cursor: pointer;
+}
+
+.button-button5:hover{
+
+    box-shadow: 5px 5px 10px rgba(10,0,0,0.19);
+
+}
+
+.button-button6{
+    border-radius: 4px;
+    border-color: gray;
+    cursor: pointer;
+}
+.button-button6:hover {
+    background-color:lightgray ;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    
+  }
+
+
+
+.button-button7{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-radius: 10px;
+    border-color: grey;
+    cursor: pointer;
+}
+.button-button7:hover {
+background-color: lightgray;
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+  .abcd-button{
+    background-color: blueviolet;
+  }
+  .abcd-button:hover{
+    background-color: aquamarine;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    
+     
+  }
+@media (max-width:300px){
+    .ab{
+        display: block;
+    }
+}
+ @media (min-width:300px) and (max-width:500px){
+    .ab{
+        display: block;
+    }
+ }
